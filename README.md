@@ -22,3 +22,4 @@ You can choose difficulty level in this menu.
 
 + You can use **ESC** key to enter pause menu during the game.
 + You can save the game in the pause menu and use option 2 to continu playing it.
+>Enjoy Playing Soduku.
