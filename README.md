@@ -6,3 +6,8 @@
 
 You can choose difficulty level in this menu.
 ***
+**The difficulty level directly impacts your remaining time.**
++ In easy mode, you have 5 minutes.
++ In medium mode, you have 3 minutes.
++ In hard mode, you have 2 minutes.
+---
